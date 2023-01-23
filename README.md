@@ -1,13 +1,21 @@
 # OpenInClickup-Chrome
 
-## Installation
+## Installation (Chrome)
 
-1. Download the latest release from [here]()
+1. Download the latest release from [here](https://github.com/c1oneman/OpenInClickup-Chrome/archive/refs/heads/main.zip)
 2. Unzip the file
 3. Open Chrome and go to `chrome://extensions`
 4. Enable `Developer mode` in the top right corner
 5. Click `Load unpacked` and select the folder you unzipped the file to
 6. Click `Open` and the extension should be installed
+
+## Installation (Firefox)
+
+1. Download the latest release from [here](https://github.com/c1oneman/OpenInClickup-Chrome/archive/refs/heads/main.zip)
+2. Unzip the file
+3. Open Firefox and go to `about:debugging#/runtime/this-firefox`
+4. Click `Load Temporary Add-on...` and select the `manifest.json` file in the folder you unzipped the file to
+5. The extension should be installed
 
 ## Usage
 

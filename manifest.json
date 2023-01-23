@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "Clickup Desktop Redirect",
   "description": "Swaps https://app.clickup.com URLS with clickup:// protocol",
   "version": "1.0",
