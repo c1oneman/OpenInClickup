@@ -4,6 +4,8 @@
   "description": "Swaps https://app.clickup.com URLS with clickup:// protocol",
   "version": "1.0",
   "icons": {
+    "16": "images/icon-16.png",
+    "24": "images/icon-19.png",
     "38": "images/icon-38.png",
     "48": "images/icon-48.png",
     "128": "images/icon-128.png"
@@ -13,6 +15,5 @@
       "js": ["scripts/content.js"],
       "matches": ["https://app.clickup.com/*"]
     }
-  ],
-  "permissions": ["tabs"]
+  ]
 }
